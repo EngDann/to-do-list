@@ -31,6 +31,8 @@ The development of the "To do List" project presented various challenges and lea
 
 ## Video
 
+https://github.com/EngDann/to-do-list/assets/137555908/61f8d717-a8bf-428e-bd96-7c2b9d97306b
+
 ## How to Use
 
 To utilize the "To do List", follow these steps:
@@ -142,6 +144,8 @@ O desenvolvimento do projeto "To do List" apresentou vários desafios e oportuni
 -   Aplicação de práticas de código limpo para melhorar a manutenibilidade e escalabilidade.
 
 ## Video
+
+https://github.com/EngDann/to-do-list/assets/137555908/61f8d717-a8bf-428e-bd96-7c2b9d97306b
 
 ## Como Usar
 
